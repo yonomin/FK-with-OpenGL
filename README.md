@@ -8,4 +8,5 @@ ID以根节点为0，按子节点数量递增
 
 按WASD,SHIFT,SPACE移动视角,用鼠标转动视角
 ![Image](https://github.com/user-attachments/assets/b5a9292d-4fe3-4c0b-9e60-44dfb8587683)
-
+对着骨骼指示器左键单击可选中
+![选择骨骼](https://github.com/user-attachments/assets/663f19bc-13f0-418f-a2bc-f50dea16fd21)
