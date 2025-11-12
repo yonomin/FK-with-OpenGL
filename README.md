@@ -1,7 +1,7 @@
 # FK-with-OpenGL
 基于opengl,assimp./based on opengl,assimp.
 
-操作方法  
+操作方法:  
 鼠标悬浮于骨骼指示器(红色方块)上，可以查看骨骼名称和ID  
 ID以根节点为0，按子节点数量递增  
 <img width="481" height="100" alt="查看骨骼信息" src="https://github.com/user-attachments/assets/778ffc58-a9e7-4a8f-a3f7-463e01037cfd" />
@@ -16,3 +16,7 @@ ID以根节点为0，按子节点数量递增
 选中骨骼后，按下R键开启FK模式  
 按下X/Y/Z旋转
 ![旋转1](https://github.com/user-attachments/assets/86c9e29e-8541-495a-abd7-fccf63894765)
+![旋转4](https://github.com/user-attachments/assets/fa4c216b-bda9-4bac-8e80-cbc48633add1)
+
+摆点姿势吧:
+<img width="993" height="1005" alt="姿势" src="https://github.com/user-attachments/assets/fd35fc7f-a399-470b-88ee-66b914dcf63e" />
