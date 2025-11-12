@@ -10,3 +10,9 @@ ID以根节点为0，按子节点数量递增
 ![Image](https://github.com/user-attachments/assets/b5a9292d-4fe3-4c0b-9e60-44dfb8587683)
 对着骨骼指示器左键单击可选中
 ![选择骨骼](https://github.com/user-attachments/assets/663f19bc-13f0-418f-a2bc-f50dea16fd21)
+再次点击可以取消
+![选中取消](https://github.com/user-attachments/assets/d33f3fb3-9c48-49a1-8a66-3c02d8f1b770)
+
+选中骨骼后，按下R键开启FK模式  
+按下X/Y/Z旋转
+![旋转1](https://github.com/user-attachments/assets/86c9e29e-8541-495a-abd7-fccf63894765)
